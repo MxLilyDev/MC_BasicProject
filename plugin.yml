@@ -1,0 +1,7 @@
+name: [Name]
+version: ['Plugin Version']
+api-version: ["Minecraft Version"]
+description: [Description du plugin]
+author: [Pseudo]
+main: [Chemin pour la Main]
+website: [site Web; Portfolio]
